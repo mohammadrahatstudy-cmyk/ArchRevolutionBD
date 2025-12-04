@@ -5,8 +5,8 @@ import emailjs from '@emailjs/browser';
 // We define this here to avoid the "module not found" error
 const COMPANY_INFO = {
   address: "Level 4, Road 2, Block G, Dhaka 1212",
-  phone: "+880 1773-777490",
-  email: "info@archrevolution.com",
+  phone: "+880 1795-978207",
+  email: "arch.revolution2021@gmail.com",
   socials: {
     facebook: "https://www.facebook.com/ArchRevolutionBD/",
     instagram: "https://www.instagram.com/arch_revolutionbd/"
