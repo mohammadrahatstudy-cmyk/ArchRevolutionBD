@@ -146,7 +146,7 @@ const Home: React.FC = () => {
                   <img 
                     src={client.logo} 
                     alt={`${client.name} logo`} 
-                    className="max-w-full max-h-16 w-auto object-contain filter grayscale opacity-60 group-hover:grayscale-0 group-hover:opacity-100 transition-all duration-300"
+                    className="max-w-full max-h-16 w-auto object-contain transition-all duration-300"
                   />
                 </div>
               ))}

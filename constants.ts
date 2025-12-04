@@ -188,20 +188,20 @@ export const CLIENTS = [
     logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Honda_Logo.svg/320px-Honda_Logo.svg.png" 
   },
   { 
-    name: "Beximco", 
-    logo: "https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/Beximco_Group_Logo.svg/320px-Beximco_Group_Logo.svg.png" 
+    name: "Apex", 
+    logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-4vHB25G3Zjm8sGooMBGOG6ktubHTiBtREA&s" 
   },
   { 
     name: "Umidigi", 
-    logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Umidigi_logo.svg/320px-Umidigi_logo.svg.png" 
+    logo: "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/3981a5f5-6dad-47c0-bc13-50575e09123f.png" 
   },
   { 
     name: "Pioneer Insurance", 
-    logo: "https://placehold.co/300x120/white/0f172a?text=Pioneer+Insurance" 
+    logo: "https://www.pioneerinsurance.com.bd/assets/front/images/logo.png?1763720210" 
   },
   { 
     name: "Electromart", 
-    logo: "https://placehold.co/300x120/white/0056b3?text=Electromart" 
+    logo: "https://electromart.com.bd/media/2025/07/EML-MAIN-LOGO.png" 
   },
   { 
     name: "Oppo", 
@@ -209,18 +209,18 @@ export const CLIENTS = [
   },
   { 
     name: "Realme", 
-    logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Realme_logo.svg/320px-Realme_logo.svg.png" 
+    logo: "https://upload.wikimedia.org/wikipedia/commons/9/91/Realme_logo.png" 
   },
   { 
     name: "IDP", 
-    logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/IDP_Education_logo.svg/320px-IDP_Education_logo.svg.png" 
+    logo: "https://www.nafsa.org/sites/default/files/styles/partner_logo/public/media/image/IDP_Logo_POS_RGB%20%281%29.png?itok=XId8P1KT" 
   },
   { 
     name: "AFBL", 
-    logo: "https://placehold.co/300x120/white/0f172a?text=AFBL" 
+    logo: "https://www.akijfood.com/_next/image?url=https%3A%2F%2Fneoscms.blob.core.windows.net%2Fmedia%2F1724905661557_afbllogo.png&w=1920&q=75" 
   },
   { 
-    name: "Apex", 
-    logo: "https://placehold.co/300x120/white/d32f2f?text=Apex" 
+    name: "Beximco", 
+    logo: "https://www.beximco.com/themes/beximco/assets/images/beximco-logo-small.png" 
   }
 ];
