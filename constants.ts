@@ -212,7 +212,7 @@ export const CLIENTS = [
   },
   { 
     name: "IDP", 
-    logo: "https://www.nafsa.org/sites/default/files/styles/partner_logo/public/media/image/IDP_Logo_POS_RGB%20%281%29.png?itok=XId8P1KT" 
+    logo: "../assets/idp.png" 
   },
   { 
     name: "AFBL", 
