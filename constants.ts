@@ -11,7 +11,6 @@ import {
   CheckCircle
 } from 'lucide-react';
 import { ProjectCategory, Service, Project, Testimonial } from './types';
-
 export const COMPANY_INFO = {
   name: "ARCH Revolution",
   tagline: "We Design. We Build. We Deliver Excellence.",
@@ -185,7 +184,7 @@ export const WHY_US = [
 export const CLIENTS = [
   { 
     name: "Honda", 
-    logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Honda_Logo.svg/320px-Honda_Logo.svg.png" 
+    logo: "../assets/Honda_Logo.svg" 
   },
   { 
     name: "Apex", 
@@ -197,19 +196,19 @@ export const CLIENTS = [
   },
   { 
     name: "Pioneer Insurance", 
-    logo: "https://www.pioneerinsurance.com.bd/assets/front/images/logo.png?1763720210" 
+    logo: "../assets/images.png" 
   },
   { 
     name: "Electromart", 
-    logo: "https://electromart.com.bd/media/2025/07/EML-MAIN-LOGO.png" 
+    logo: "../assets/electromart.png" 
   },
   { 
     name: "Oppo", 
-    logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/OPPO_Logo.svg/320px-OPPO_Logo.svg.png" 
+    logo: "../assets/oppo.png" 
   },
   { 
     name: "Realme", 
-    logo: "https://upload.wikimedia.org/wikipedia/commons/9/91/Realme_logo.png" 
+    logo: "../assets/realme.png" 
   },
   { 
     name: "IDP", 
